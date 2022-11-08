@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = karishma.jogoo@hotmail.com
+	name = Karishma Jogoo
